@@ -1,0 +1,2 @@
+# Real_estate_price_jump_estimation
+This project estimates the effect of new transportation amenities (a new metro-line) on the price of houses located "nearby" a new metro entry. The estimation is based on a spatialized Rubin (causal effect) model.  The test and control group vary with different radius size whose center is represented by a metro entry to test the effect of a new transportation amenity at different distances.
